@@ -3,18 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <title>Activity6 - Preview</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-    .info {
-      margin-bottom: 8px;
-    }
-    .field-name {
-      font-weight: bold;
-    }
-  </style>
 </head>
 <body>
   <h1>Form Submission Preview</h1>
