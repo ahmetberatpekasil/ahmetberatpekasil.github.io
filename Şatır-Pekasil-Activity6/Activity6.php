@@ -4,7 +4,6 @@
   <meta charset="UTF-8" />
   <title>Activity6 - Registration Form</title>
   <style>
-    /* Part 3 tip: make label & input inline-block to control width/height */
     .form-group {
       display: inline-block;
       width: 200px;
