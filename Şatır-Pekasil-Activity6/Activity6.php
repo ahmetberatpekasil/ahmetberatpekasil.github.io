@@ -3,40 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <title>Activity6 - Registration Form</title>
-  <style>
-    .form-group {
-      display: inline-block;
-      width: 200px;
-      margin: 5px 0;
-      vertical-align: top; 
-    }
-    label {
-      display: inline-block;
-      width: 80px;
-      font-weight: bold;
-    }
-    input[type="text"], 
-    input[type="password"],
-    input[type="email"],
-    select {
-      width: 100px;
-      padding: 3px;
-      margin-left: 5px;
-    }
-    textarea {
-      width: 200px;
-      height: 60px;
-      margin-left: 5px;
-    }
-    .radio-group,
-    .checkbox-group {
-      width: auto;
-      display: inline-block;
-    }
-    .submit-button {
-      margin-top: 10px;
-    }
-  </style>
 </head>
 <body>
   <h1>Registration Form</h1>
